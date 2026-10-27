@@ -1,0 +1,7 @@
+{
+  "Modelo": "efficientnet_b0",
+  "Semente": 2026,
+  "Criterio_arquitetura": "Maior F1 médio de validação nas três sementes; desempate por AUC média de validação.",
+  "Criterio_checkpoint": "Melhor F1 de validação da arquitetura escolhida; desempate por AUC e semente.",
+  "Cobertura": "18/18 execuções concluídas"
+}
